@@ -67,3 +67,5 @@ O *Imposto de Renda Pessoa Física (IRPF)* é um tributo federal que incide sobr
 ### 📊 O que é o Microsoft Excel?
 
 O *Excel* é um programa da Microsoft muito usado para organização de dados, cálculos, criação de planilhas, gráficos e análise de informações. Ele é uma ferramenta poderosa tanto para uso pessoal quanto profissional, sendo essencial em áreas como finanças, administração, engenharia, educação e diversas outras.
+
+<!-- Uploading "DIO.ME.png"... -->
