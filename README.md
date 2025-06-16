@@ -1,3 +1,10 @@
+![Image](https://github.com/user-attachments/assets/126521cc-40f9-4d80-9995-b581d5e8b660)
+
+
+
+
+
+
 # Planilha_IRPF
 Projeto criado durante o curso de Excel com Inteligencia Artifical da Dio.me, Desenvolvi uma planilha simples e funcional que ajuda a organizar todas as informações necessárias para fazer a Declaração do Imposto de Renda Pessoa Física (IRPF). Ainda em fase de aprendizado, me baseei no modelo do professor, que também está disponível aqui como referência.
 
