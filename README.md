@@ -8,7 +8,7 @@ Projeto criado durante o curso de Excel com Inteligencia Artifical da Dio.me, De
 
 Este repositório apresenta um projeto desenvolvido como parte do meu aprendizado no curso de Excel pela plataforma Dio.me. A proposta central foi criar uma ferramenta prática e funcional que auxilie na organização dos dados necessários para a Declaração do Imposto de Renda Pessoa Física (IRPF).
 
-##🌟 Visão Geral do Projeto
+## 🌟 Visão Geral do Projeto
 
 A planilha foi pensada para reunir e estruturar todas as informações importantes para o preenchimento correto do IR. Muitas vezes, organizar esses dados pode ser confuso e demorado — por isso, criei um modelo que *facilita o processo, reduz erros e garante clareza* sobre os valores declarados.
 
